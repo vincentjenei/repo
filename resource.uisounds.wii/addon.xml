@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.wii" version="1.0.2" name="Wii GUI Sounds" provider-name="Vincent Jenei">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Wii GUI Sounds</summary>
+    <description lang="en">The GUI sounds ripped straight from the wii.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
